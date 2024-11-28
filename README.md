@@ -1,4 +1,4 @@
-# Los Angeles Airbnb Analytics
+# Los Angeles Airbnb Market Analysis Dashboard
 
 ## Overview
 This project involves designing and implementing a Power BI dashboard to analyze the Los Angeles Airbnb market trends. The analysis covers various aspects such as total listings, host distribution, pricing, and growth patterns, with the goal of providing valuable insights for decision-making.
@@ -27,8 +27,11 @@ This project involves designing and implementing a Power BI dashboard to analyze
 - **Pricing Trends and Premium Areas**: A breakdown of pricing trends across neighborhoods to help identify high-demand and premium-priced locations.
 - **Guest Convenience Metrics**: Analyzed metrics such as instant bookability and super host status to provide an understanding of guest preferences.
 
-## Visuals
-Include a few screenshots of your Power BI dashboard here to showcase your work and give users a glimpse of the visualizations.
+
+## Dashboard
+[![Los Angeles Airbnb Listings](https://github.com/user-attachments/assets/30ee8957-ce23-4195-a9c4-5f999ceeb8c8)](https://app.powerbi.com/view?r=eyJrIjoiMzczM2M1ZDMtYjMyYi00NjU2LWJmNzYtNWU5N2MxNDE2YTg2IiwidCI6IjdhZmI5ZTIyLTkzMDgtNDE4Ni04ZTI5LWVhMjMxZmYzYmFmNyIsImMiOjN9)
+
+You can also view the Power BI dashboard online using the following link: [Los Angeles Airbnb Market Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzczM2M1ZDMtYjMyYi00NjU2LWJmNzYtNWU5N2MxNDE2YTg2IiwidCI6IjdhZmI5ZTIyLTkzMDgtNDE4Ni04ZTI5LWVhMjMxZmYzYmFmNyIsImMiOjN9)
 
 ## How to Run the Project
 1. **Download Power BI File**: Download the `.pbix` file provided in this repository. It already includes the cleaned data and visualizations.
